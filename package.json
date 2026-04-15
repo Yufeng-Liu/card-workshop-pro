@@ -1,0 +1,1 @@
+{"name": "card-workshop-pro", "version": "1.0.0", "description": "智能卡片工坊 Pro - AI驱动的内容可视化平台", "main": "index-supabase.html", "scripts": {"dev": "npx serve . -p 3000", "start": "npx serve . -p 3000"}, "dependencies": {"@supabase/supabase-js": "^2.39.0"}, "devDependencies": {"serve": "^14.2.0"}}
